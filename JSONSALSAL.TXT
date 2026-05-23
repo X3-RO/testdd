@@ -1,28 +1,53 @@
 {
   "systems": [
     {
-      "name": "MOBILE LEGEND",
-      "status": "MAINTENANCE",
-      "lib_name": "libcidhax.so",
-      "download_url": "https://yourserver.com/files/libcidhax.so"
-    },
-    {
-      "name": "BLOODSTRIKE",
-      "status": "ONLINE",
-      "lib_name": "libastral.so",
-      "download_url": "https://yourserver.com/files/libastral.so"
-    },
-    {
       "name": "CALL OF DUTY",
       "status": "ONLINE",
-      "name": "ASTRAL SHIT",
-      "lib_name": "libTEST.so",
-      "download_url": "https://zomato.top/anti/lib/libTEST.so",
-      "name": "ghost",
-      "lib_name": "libhehe.so",
-      "download_url": "https://zomato.top/anti/lib/libhehe.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
-      "logo": "https://raw.githubusercontent.com/X3-RO/testdd/refs/heads/main/4c91b95a589c61e4f0b9fc0302a0addd.jpg"
+      "logo": "https://raw.githubusercontent.com/X3-RO/testdd/refs/heads/main/4c91b95a589c61e4f0b9fc0302a0addd.jpg",
+      "libs": [
+        {
+          "name": "ASTRAL SHIT",
+          "lib_name": "libTEST.so",
+          "download_url": "https://zomato.top/anti/lib/libTEST.so"
+        },
+        {
+          "name": "GHOST",
+          "lib_name": "libhehe.so",
+          "download_url": "https://zomato.top/anti/lib/libhehe.so"
+        }
+      ]
+    },
+    {
+      "name": "MOBILE LEGEND",
+      "status": "ONLINE",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
+      "logo": "https://raw.githubusercontent.com/X3-RO/testdd/refs/heads/main/dcc778e5afc9beac27a7541153e294f2.jpg",
+      "libs": [
+        {
+          "name": "ML HACK V1",
+          "lib_name": "libml1.so",
+          "download_url": "https://zomato.top/anti/lib/libml1.so"
+        },
+        {
+          "name": "ML RADAR",
+          "lib_name": "libmlradar.so",
+          "download_url": "https://zomato.top/anti/lib/libmlradar.so"
+        }
+      ]
+    },
+    {
+      "name": "BLOOD STRIKE",
+      "status": "MAINTENANCE",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
+      "logo": "https://raw.githubusercontent.com/X3-RO/testdd/refs/heads/main/b23ec8eaa31eb1e679e9a88509adb3f5.jpg",
+      "libs": [
+        {
+          "name": "BS AIMBOT",
+          "lib_name": "libbs.so",
+          "download_url": "https://zomato.top/anti/lib/libbs.so"
+        }
+      ]
     }
   ]
 }
