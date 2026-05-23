@@ -21,13 +21,13 @@
     {
       "name": "MOBILE LEGEND",
       "status": "ONLINE",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
+      "game_activity": "com.unity3d.player.UnityPlayerActivity",
       "logo": "https://raw.githubusercontent.com/X3-RO/testdd/refs/heads/main/dcc778e5afc9beac27a7541153e294f2.jpg",
       "libs": [
         {
-          "name": "ML HACK V1",
-          "lib_name": "libml1.so",
-          "download_url": "https://zomato.top/anti/lib/libml1.so"
+          "name": "ML V1 V1",
+          "lib_name": "libKyuski.so",
+          "download_url": "https://zomato.top/anti/lib/libKyuski.so"
         },
         {
           "name": "ML RADAR",
