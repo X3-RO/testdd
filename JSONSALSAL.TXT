@@ -1,6 +1,18 @@
 {
   "systems": [
     {
+      "name": "MOBILE LEGEND",
+      "status": "ONLINE",
+      "lib_name": "libcidhax.so",
+      "download_url": "https://yourserver.com/files/libcidhax.so"
+    },
+    {
+      "name": "BLOODSTRIKE",
+      "status": "ONLINE",
+      "lib_name": "libastral.so",
+      "download_url": "https://yourserver.com/files/libastral.so"
+    },
+    {
       "name": "CALL OF DUTY",
       "status": "ONLINE",
       "name": "ASTRAL SHIT",
@@ -13,4 +25,4 @@
       "logo": "https://raw.githubusercontent.com/X3-RO/testdd/refs/heads/main/4c91b95a589c61e4f0b9fc0302a0addd.jpg"
     }
   ]
-}      
+}
