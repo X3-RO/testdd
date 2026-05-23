@@ -21,7 +21,7 @@
       "status": "ONLINE",
       "lib_name": "libTEST.so",
       "download_url": "https://zomato.top/anti/lib/libTEST.so",
-      "game_activity": "com.tencent.tmgp.pubgmhd.IGameSDKActivity",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
       "logo": "https://raw.githubusercontent.com/X3-RO/testdd/refs/heads/main/4c91b95a589c61e4f0b9fc0302a0addd.jpg"
     }
   ]
