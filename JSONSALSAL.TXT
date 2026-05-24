@@ -7,14 +7,19 @@
       "logo": "https://raw.githubusercontent.com/X3-RO/testdd/refs/heads/main/4c91b95a589c61e4f0b9fc0302a0addd.jpg",
       "libs": [
         {
-          "name": "ASTRAL SHIT",
-          "lib_name": "libTEST.so",
-          "download_url": "https://zomato.top/anti/lib/libTEST.so"
+          "name": "HEXABYTE",
+          "lib_name": "libinvoke.so",
+          "download_url": "https://zomato.top/library/kupal/lib/1778963293_6a08d35d8da67_libinvoke.so"
         },
         {
-          "name": "GHOST",
-          "lib_name": "libhehe.so",
-          "download_url": "https://zomato.top/anti/lib/libhehe.so"
+          "name": "DINZ",
+          "lib_name": "libDINZ.so",
+          "download_url": "https://zomato.top/library/kupal/lib/1779044659_6a0a1133e0e6d_libDINZ.so"
+        },
+        {
+          "name": "NETWING",
+          "lib_name": "libNETWING.so",
+          "download_url": "https://zomato.top/library/kupal/lib/1779044710_6a0a116620c39_libNETWING.so"
         }
       ]
     },
@@ -51,14 +56,24 @@
     },
     {
       "name": "BLOOD STRIKE",
-      "status": "MAINTENANCE",
+      "status": "ONLINE",
       "game_activity": "com.netease.bloodstrike.unity.MainActivity",
       "logo": "https://raw.githubusercontent.com/X3-RO/testdd/refs/heads/main/b23ec8eaa31eb1e679e9a88509adb3f5.jpg",
       "libs": [
         {
-          "name": "BS AIMBOT",
-          "lib_name": "libbs.so",
-          "download_url": "https://zomato.top/anti/lib/libbs.so"
+          "name": "VVIP",
+          "lib_name": "libVVIPBS.so",
+          "download_url": "https://zomato.top/bs/kupal/lib/1778354961_69ff8b119acc1_libVVIPBS.so"
+        },
+        {
+          "name": "NOXORA",
+          "lib_name": "libcrashanalyst.so",
+          "download_url": "https://zomato.top/bs/kupal/lib/1778191075_69fd0ae3cb4bc_libcrashanalyst.so"
+        },
+        {
+          "name": "NUSANTARA",
+          "lib_name": "libdevpcz.so",
+          "download_url": "https://zomato.top/bs/kupal/lib/1778098289_69fba0719e2e3_libdevpcz.so"
         }
       ]
     },
