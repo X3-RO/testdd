@@ -20,6 +20,146 @@
           "name": "NETWING",
           "lib_name": "libNETWING.so",
           "download_url": "https://zomato.top/library/kupal/lib/1779044710_6a0a116620c39_libNETWING.so"
+        },
+        {
+          "name": "AIRIX",
+          "lib_name": "libAIRIX.so",
+          "download_url": "https://zomato.top/anti/lib/libAIRIX.so"
+        },
+        {
+          "name": "CHRIS",
+          "lib_name": "libCHRIS.so",
+          "download_url": "https://zomato.top/anti/lib/libCHRIS.so"
+        },
+        {
+          "name": "AJLHAX",
+          "lib_name": "libAJLHAX.so",
+          "download_url": "https://zomato.top/anti/lib/libAJLHAX.so"
+        },
+        {
+          "name": "EREN",
+          "lib_name": "libEREN.so",
+          "download_url": "https://zomato.top/anti/lib/libEREN.so"
+        },
+        {
+          "name": "GALAXY",
+          "lib_name": "libGALAXY.so",
+          "download_url": "https://zomato.top/anti/lib/libGALAXY.so"
+        },
+        {
+          "name": "HASSAN",
+          "lib_name": "libHASSAN.so",
+          "download_url": "https://zomato.top/anti/lib/libHASSAN.so"
+        },
+        {
+          "name": "GON",
+          "lib_name": "libGON.so",
+          "download_url": "https://zomato.top/anti/lib/libGON.so"
+        },
+        {
+          "name": "PSYCHE",
+          "lib_name": "libPSYCHE.so",
+          "download_url": "https://zomato.top/anti/lib/libPSYCHE.so"
+        },
+        {
+          "name": "SACHI",
+          "lib_name": "libSACHI.so",
+          "download_url": "https://zomato.top/anti/lib/libSACHI.so"
+        },
+        {
+          "name": "SACRED",
+          "lib_name": "libSACRED.so",
+          "download_url": "https://zomato.top/anti/lib/libSACRED.so"
+        },
+        {
+          "name": "MOD 1",
+          "lib_name": "libx16.so",
+          "download_url": "https://zomato.top/anti/lib/libx16.so"
+        },
+        {
+          "name": "VVIP",
+          "lib_name": "libVVIP.so",
+          "download_url": "https://zomato.top/anti/lib/libVVIP.so"
+        },
+        {
+          "name": "MOD 2",
+          "lib_name": "libx17.so",
+          "download_url": "https://zomato.top/anti/lib/libx17.so"
+        },
+        {
+          "name": "MOD 3",
+          "lib_name": "libx18.so",
+          "download_url": "https://zomato.top/anti/lib/libx18.so"
+        },
+        {
+          "name": "AMBER",
+          "lib_name": "libAMBER.so",
+          "download_url": "https://zomato.top/anti/lib/libAMBER.so"
+        },
+        {
+          "name": "MOD 4",
+          "lib_name": "libx19.so",
+          "download_url": "https://zomato.top/anti/lib/libx19.so"
+        },
+        {
+          "name": "MOD 5",
+          "lib_name": "libx21.so",
+          "download_url": "https://zomato.top/anti/lib/libx21.so"
+        },
+        {
+          "name": "MOD 6",
+          "lib_name": "libx23.so",
+          "download_url": "https://zomato.top/anti/lib/libx23.so"
+        },
+        {
+          "name": "MOD 7",
+          "lib_name": "libx24.so",
+          "download_url": "https://zomato.top/anti/lib/libx24.so"
+        },
+        {
+          "name": "MOD 8",
+          "lib_name": "libx20.so",
+          "download_url": "https://zomato.top/anti/lib/libx20.so"
+        },
+        {
+          "name": "MOD 9",
+          "lib_name": "libx22.so",
+          "download_url": "https://zomato.top/anti/lib/libx22.so"
+        },
+        {
+          "name": "MOD 10",
+          "lib_name": "libx26.so",
+          "download_url": "https://zomato.top/anti/lib/libx26.so"
+        },
+        {
+          "name": "MOD 11",
+          "lib_name": "libx27.so",
+          "download_url": "https://zomato.top/anti/lib/libx27.so"
+        },
+        {
+          "name": "MOD 12",
+          "lib_name": "libx28.so",
+          "download_url": "https://zomato.top/anti/lib/libx28.so"
+        },
+        {
+          "name": "MOD 13",
+          "lib_name": "libx29.so",
+          "download_url": "https://zomato.top/anti/lib/libx29.so"
+        },
+        {
+          "name": "MOD 14",
+          "lib_name": "libx31.so",
+          "download_url": "https://zomato.top/anti/lib/libx31.so"
+        },
+        {
+          "name": "MOD 15",
+          "lib_name": "libx25.so",
+          "download_url": "https://zomato.top/anti/lib/libx25.so"
+        },
+        {
+          "name": "MOD 16",
+          "lib_name": "libx30.so",
+          "download_url": "https://zomato.top/anti/lib/libx30.so"
         }
       ]
     },
