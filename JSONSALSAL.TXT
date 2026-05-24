@@ -33,6 +33,11 @@
           "name": "ATTIC",
           "lib_name": "libatic.so",
           "download_url": "https://zomato.top/library/kupal/lib/1779639368_6a1324483e00a_libatic.so"
+        },
+        {
+          "name": "KYUSI",
+          "lib_name": "libKyuski.so",
+          "download_url": "https://zomato.top/library/kupal/lib/1779642066_6a132ed278232_libKyuski.so"
         }
       ]
     },
