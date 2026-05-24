@@ -37,9 +37,22 @@
       ]
     },
     {
+      "name": "PUBG MOBILE",
+      "status": "ONLINE",
+      "game_activity": "com.tencent.tmgp.pubg.TMGPUbGMainActivity",
+      "logo": "https://raw.githubusercontent.com/X3-RO/testdd/refs/heads/main/pubg_logo.jpg",
+      "libs": [
+        {
+          "name": "PUBG AIM",
+          "lib_name": "libpubg.so",
+          "download_url": "https://zomato.top/anti/lib/libpubg.so"
+        }
+      ]
+    },
+    {
       "name": "BLOOD STRIKE",
       "status": "MAINTENANCE",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
+      "game_activity": "com.netease.bloodstrike.unity.MainActivity",
       "logo": "https://raw.githubusercontent.com/X3-RO/testdd/refs/heads/main/b23ec8eaa31eb1e679e9a88509adb3f5.jpg",
       "libs": [
         {
