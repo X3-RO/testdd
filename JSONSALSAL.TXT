@@ -25,7 +25,7 @@
     },
     {
       "name": "MOBILE LEGEND",
-      "status": "ONLINE",
+      "status": "MAINTENANCE",
       "game_activity": "com.unity3d.player.UnityPlayerActivity",
       "logo": "https://raw.githubusercontent.com/X3-RO/testdd/refs/heads/main/dcc778e5afc9beac27a7541153e294f2.jpg",
       "libs": [
@@ -43,7 +43,7 @@
     },
     {
       "name": "PUBG MOBILE",
-      "status": "ONLINE",
+      "status": "MAINTENANCE",
       "game_activity": "com.tencent.tmgp.pubg.TMGPUbGMainActivity",
       "logo": "https://raw.githubusercontent.com/X3-RO/testdd/refs/heads/main/f31054399c0c2604548ba7dfdced2a62.jpg",
       "libs": [
@@ -79,7 +79,7 @@
     },
     {
       "name": "CROSSFIRE",
-      "status": "ONLINE",
+      "status": "MAINTENANCE",
       "game_activity": "com.tencent.tmgp.cf.CrossFireActivity",
       "logo": "https://raw.githubusercontent.com/X3-RO/testdd/refs/heads/main/17bff2c0752fc7f6f5a0ce47cebafc50.jpg",
       "libs": [
