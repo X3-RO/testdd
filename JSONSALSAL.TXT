@@ -25,19 +25,14 @@
     },
     {
       "name": "MOBILE LEGEND",
-      "status": "MAINTENANCE",
+      "status": "ONLINE",
       "game_activity": "com.unity3d.player.UnityPlayerActivity",
       "logo": "https://raw.githubusercontent.com/X3-RO/testdd/refs/heads/main/dcc778e5afc9beac27a7541153e294f2.jpg",
       "libs": [
         {
-          "name": "ML V1 V1",
-          "lib_name": "libKyuski.so",
-          "download_url": "https://zomato.top/anti/lib/libKyuski.so"
-        },
-        {
-          "name": "ML RADAR",
-          "lib_name": "libmlradar.so",
-          "download_url": "https://zomato.top/anti/lib/libmlradar.so"
+          "name": "ATTIC",
+          "lib_name": "libatic.so",
+          "download_url": "https://zomato.top/library/kupal/lib/1779639368_6a1324483e00a_libatic.so"
         }
       ]
     },
