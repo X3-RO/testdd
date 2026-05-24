@@ -40,7 +40,7 @@
       "name": "PUBG MOBILE",
       "status": "ONLINE",
       "game_activity": "com.tencent.tmgp.pubg.TMGPUbGMainActivity",
-      "logo": "https://raw.githubusercontent.com/X3-RO/testdd/refs/heads/main/pubg_logo.jpg",
+      "logo": "https://raw.githubusercontent.com/X3-RO/testdd/refs/heads/main/f31054399c0c2604548ba7dfdced2a62.jpg",
       "libs": [
         {
           "name": "PUBG AIM",
@@ -59,6 +59,19 @@
           "name": "BS AIMBOT",
           "lib_name": "libbs.so",
           "download_url": "https://zomato.top/anti/lib/libbs.so"
+        }
+      ]
+    },
+    {
+      "name": "CROSSFIRE",
+      "status": "ONLINE",
+      "game_activity": "com.tencent.tmgp.cf.CrossFireActivity",
+      "logo": "https://raw.githubusercontent.com/X3-RO/testdd/refs/heads/main/17bff2c0752fc7f6f5a0ce47cebafc50.jpg",
+      "libs": [
+        {
+          "name": "CF AIM",
+          "lib_name": "libcf.so",
+          "download_url": "https://zomato.top/anti/lib/libcf.so"
         }
       ]
     }
