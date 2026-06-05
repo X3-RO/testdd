@@ -148,14 +148,14 @@
     },
     {
       "name": "PUBG MOBILE",
-      "status": "MAINTENANCE",
+      "status": "ONLINE",
       "game_activity": "com.tencent.tmgp.pubg.TMGPUbGMainActivity",
       "logo": "https://raw.githubusercontent.com/X3-RO/testdd/refs/heads/main/f31054399c0c2604548ba7dfdced2a62.jpg",
       "libs": [
         {
-          "name": "PUBG AIM",
-          "lib_name": "libpubg.so",
-          "download_url": "https://zomato.top/anti/lib/libpubg.so"
+          "name": "TEST JAI",
+          "lib_name": "libsigner.so",
+          "download_url": "https://zomato.top/anti/lib/libsigner.so"
         }
       ]
     },
